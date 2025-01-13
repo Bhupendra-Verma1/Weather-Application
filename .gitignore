@@ -1,0 +1,15 @@
+# Ignore build files
+/build/
+
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+
+# Ignore API configuration files
+*.properties
+
+# Ignore other temporary or system files
+*.log
+*.tmp
+.DS_Store
